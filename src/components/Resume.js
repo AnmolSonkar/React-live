@@ -274,7 +274,7 @@ export default class Resume extends Component {
                   Issued By - Vidya Bharti Akhil Bhartiya Shiksha Sansthan,
                   Uttarakhand
                 </p>
-                <p className="text-gray-500 text-sm ">10/11/2017</p>
+                <p className="text-gray-500 text-sm ">Nov 2017</p>
 
                 <h1 className="text-gray-800 text-lg font-medium mt-4">
                   <i className="fas fa-trophy text-gray-500 "></i>
@@ -289,7 +289,7 @@ export default class Resume extends Component {
                   Issued By - Vidya Bharti Akhil Bhartiya Shiksha Sansthan,
                   Uttar Pradesh
                 </p>
-                <p className="text-gray-500 text-sm ">10/11/2017</p>
+                <p className="text-gray-500 text-sm ">Nov 2017</p>
 
                 <h1 className="text-gray-800 text-xl mt-6 font-medium  border-b border-gray-800 h-10">
                   CERTIFICATES
@@ -299,7 +299,7 @@ export default class Resume extends Component {
                   <a
                     target="_blank"
                     rel="noreferrer"
-                    href="https://www.freecodecamp.org/certification/anmolsonkar/responsive-web-design"
+                    href="https://www.sololearn.com/Certificate/1162-9438124/jpg"
                     className="hover:underline"
                   >
                     Responsive Web Design course
